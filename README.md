@@ -5,7 +5,7 @@
 Este repositório serve para atualizarmos as informações da conferência e gerenciarmos as issues relacionadas a organização, ideias, necessidades para realizaço do evento, votações, pesquisas, etc.
 
 #### Data
-- 06/JUN/2018
+- 02/JUN/2018
 
 #### Local
 
