@@ -32,7 +32,7 @@ _(a ser divulgado)_
 ### Patrocínios
 _(a ser divulgado)_
 
-Você pode demonstrar seu interesse nesta [issue](https://github.com/react-brasil/reactconfbr/issues/22) ou entrar em contato através do e-mail cejs@cejs.com.br ou pelo slack `produtoreativo.slack.com`
+Você pode demonstrar seu interesse nesta [issue](https://github.com/cejs/cejsconf/issues) ou entrar em contato através do e-mail cejs@cejs.com.br ou pelo slack `produtoreativo.slack.com`
 
 ### Apoio
 - [Produto Reativo](http://www.produtoreativo.com.br/)
